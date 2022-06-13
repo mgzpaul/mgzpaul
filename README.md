@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgzpaul
 - 👀 I’m passionate about innovation. I love React and Flutter
-- 🌱 I’m currently working as a freelance developer, and in early stages of building a startup. 
+- 🌱 I’m currently working as a freelance developer, I enjoy building a startups. 
 - 📫 Contact me via mgzpaul@gmail.com
 
 <!---
